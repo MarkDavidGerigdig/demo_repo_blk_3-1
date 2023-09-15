@@ -7,4 +7,3 @@
 ### Age:20
 ---
 ### Hobbies: Reading novel and manga
-### Social Status: Single
